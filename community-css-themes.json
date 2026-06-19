@@ -3977,5 +3977,12 @@
     "repo": "joshua-walls/trailmark-theme",
     "screenshot": "screenshot.png",
     "modes": ["dark", "light"]
+  }，
+  {
+    "name": "Zen Forest",
+    "author": "Noctivision",
+    "repo": "HobbySoftwareDeveloper/Zen-Forest",
+    "screenshot": "preview/1.png",
+    "modes": ["dark", "light"]
   }
 ]
